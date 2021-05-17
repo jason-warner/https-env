@@ -1,0 +1,23 @@
+{
+  "name": "https-env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jason-warner/https-env.git"
+  },
+  "author": "JPwarner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jason-warner/https-env/issues"
+  },
+  "homepage": "https://github.com/jason-warner/https-env#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
